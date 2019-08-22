@@ -1,14 +1,14 @@
 # AMEDelegateMaker
-A Objective-c protocol &amp; delegate maker without resign for Xcode<br>
+一个无需resgin的protocol和delegate生成器<br>
 
 ![](Display/ADM-intro.png)
 
 [![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 
-##### ![cn](https://raw.githubusercontent.com/gosquared/flags/master/flags/flags/shiny/24/China.png) Chinese (Simplified): [中文说明](README_chs.md)
+
 
 ## What is this?
-This plug-in can help you create protocol & delegate easier.
+可以生成代理和协议
 
 e.g.
 ```
@@ -35,18 +35,18 @@ e.g.
 ![](Display/delegateMaker.gif)
 
 ## Installation
-1. [Download](product/AMEDelegateMaker.zip)<br>
-2. Enable this plug-in in setting<br>
+1. [点击这里下载](product/AMEDelegateMaker.zip)<br>
+2. 在设置中启用本扩展<br>
 ![](Display/ext.png)
-3. You can Bind shortcuts in Xcode setting <br>
+3. 你可以自己加个快捷键 <br>
 ![](Display/binding.png)
 
-## Trouble Shooting
-If your Xcode is 8.0+.<br>
-Please install macOS Sierra (version 10.12) if your macOS is 10.11.<br>
+## 问题
+如果你使用Xcode8.0+.<br>
+请把系统版本升级到10.12以上.<br>
 
-## Other project recommendations
+## 其他推荐
 [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) <br>
-A category property maker without resigin
+类别(category)生成器
 [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) <br>
-A lazyload getter maker without resign for Xcode
+懒加载生成器
