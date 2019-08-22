@@ -47,6 +47,6 @@ Please install macOS Sierra (version 10.12) if your macOS is 10.11.<br>
 
 ## Other project recommendations
 [AMECategoryMaker](https://github.com/ame017/AMECategoryMaker) <br>
-A category property maker without resigin
+A category property maker without resigin<br>
 [AMEGetterMaker](https://github.com/ame017/AMEGetterMaker) <br>
 A lazyload getter maker without resign for Xcode
