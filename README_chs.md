@@ -35,7 +35,7 @@ e.g.
 ![](Display/delegateMaker.gif)
 
 ## Installation
-1. [点击这里下载](product/AMEDelegateMaker.zip)<br>
+1. [点击这里下载](Product/AMEDelegateMaker.zip)<br>
 2. 在设置中启用本扩展<br>
 ![](Display/ext.png)
 3. 你可以自己加个快捷键 <br>

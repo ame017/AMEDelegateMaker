@@ -35,7 +35,7 @@ e.g.
 ![](Display/delegateMaker.gif)
 
 ## Installation
-1. [Download](product/AMEDelegateMaker.zip)<br>
+1. [Download](Product/AMEDelegateMaker.zip)<br>
 2. Enable this plug-in in setting<br>
 ![](Display/ext.png)
 3. You can Bind shortcuts in Xcode setting <br>
